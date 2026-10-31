@@ -15,7 +15,8 @@ TailPlan (the "App") helps families care for their pets together. This policy ex
 - **Location: route, distance and time while a walk is in progress.** Your location is shown on the map while you view the Walk tab, but a route is saved only after you start a walk.
 - Photos: only photos you choose or take are uploaded. The App does not access your whole photo library.
 - Notifications: device push token, notification settings, received notifications, app language
-- Stored only on your device (not sent to the operator): display mode, today's routines for the widget
+- Inquiries: when you contact us, the inquiry type, title and content, account email, app version, device model, OS version, app language, and the answer
+- Stored only on your device (not sent to the operator): display mode, text size and language settings, today's routines for the widget, a hash of your App Lock passcode. The app never receives Face ID or Touch ID data, only the result of the check.
 
 The App does not collect advertising identifiers or contacts.
 
@@ -24,6 +25,7 @@ The App does not collect advertising identifiers or contacts.
 - Sign-up, sign-in, email verification, password reset
 - Sharing care records, schedules and expenses within a home, and preventing duplicate care
 - Recording walk routes and sharing them live with your family
+- Reviewing and answering inquiries
 - Sending routine, schedule, vaccine, restock, family activity and emergency SOS notifications
 - Calculating breed rankings (if you join)
 - Restoring data on a new device or reinstall, and showing home screen widgets
@@ -36,7 +38,7 @@ The App does not collect advertising identifiers or contacts.
 ## 4. Retention and deletion
 
 - We keep your information until you delete your account, which you can do anytime in Settings → Account → Delete Account.
-- Deleting your account immediately deletes your login, user document and received notifications.
+- Deleting your account immediately deletes your login, user document, received notifications and inquiries.
 - **If other members remain in the home, the records you created stay as shared care history and your name appears as "Former member".** When the last member deletes their account, the home and all its data and photos are deleted.
 - Received notifications are deleted automatically after 30 days. Push tokens are discarded when you sign out or delete your account.
 - The operator keeps no separate backup copies.
